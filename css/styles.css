@@ -1,0 +1,22 @@
+body { 
+    color:rgb(4, 114, 19);
+    font-family: arial;
+    margin: 0px;
+}
+
+div {
+    background-color: rgb(235, 190, 107);
+    border: dashed 10px brown;
+}
+
+.second-div {
+    background-color: rgb(146, 232, 243);
+}
+
+#second-li {
+    font-size: 30px;
+}
+img {
+    width: 300px;
+    border-radius: 50px;
+}
